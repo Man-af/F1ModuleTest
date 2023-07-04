@@ -1,0 +1,185 @@
+*{
+    scroll-behavior: smooth;
+}
+.my-container1{
+    display:flex;
+    flex-flow:row wrap;
+    background-color: black;
+    justify-content: space-between;
+    padding: 20px 40px;
+    position: sticky;
+    top:0px;
+    left:0px;
+    right:0px;
+}
+
+.flex-item1{
+    display:flex;
+    gap:25px;
+}
+
+.fa-brands{
+    color: white;
+}
+
+.anch{
+    text-decoration: none;
+    color:white;
+}
+
+.my-text{
+    position: absolute;
+    top: 20%;
+    left: 70px;
+    color: white;
+    font-size: 100px;;
+}
+
+.my-line{
+    position: absolute;
+    top: 55%;
+    left: 70px;
+}
+
+.my-text2{
+    position: absolute;
+    top: 60%;
+    left: 70px;
+    color: white;
+}
+
+.my-about1{
+    text-align: center;
+    color:white;
+    margin-top: 40px ;
+    background-color:black;
+}
+
+.my-line2{
+margin:auto;
+}
+
+.my-container2{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.flex-item2{
+    height:400px; 
+    width:700px;
+    background-color:black;
+    color:white;
+}
+
+.my-menu{
+    text-align: center;
+    color:white;
+    margin-top: 40px ;
+    background-color:black;
+}
+
+.my-line3{
+    margin:auto;
+    }
+
+.para-menu{
+    margin-top: 20px;
+    text-align: left;
+}
+
+.my-container3{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.my-line4{
+    margin:auto;
+    }
+
+.my-caraousel{
+    text-align: center;
+    color:white;
+    margin-top: 40px ;
+    background-color: black;
+}
+
+.my-line5{
+    margin:auto;
+}
+
+.my-loc{
+    text-align: center;
+    color:white;
+    margin-top: 40px ;
+    background-color:black;
+}
+
+.my-container4{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.flex-item5{
+    height:400px; 
+    width:700px;
+    background-color: black;
+    color:white;
+}
+
+.my-container5{
+    display:flex;
+    flex-flow:row wrap;
+    background-color: black;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.fa-phone{
+    color: white;
+}
+
+.fa-envelope{
+    color:white;
+}
+
+.fa-truck{
+    color:white;
+}
+
+
+.my-gallary{
+    text-align: center;
+    color:white;
+    margin-top: 40px ;
+    background-color:black;
+}
+
+.my-line6{
+    margin:auto;
+}
+
+.my-container6{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content: center;
+    gap:5px;
+}
+
+.flex-item8{
+    display:flex;
+    flex-flow: column wrap;
+    gap: 5px;
+}
+
+.flex-item9{
+    display:flex;
+    flex-flow: column wrap;
+    gap: 5px;
+}
+
